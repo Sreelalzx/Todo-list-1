@@ -1,6 +1,4 @@
-# Todo List App
-
-nse)
+# Todo List
 
 ## Introduction
 The Todo List  is a simple application designed to help you organize and manage your tasks and to-do items. Whether it's for personal or professional use, this app provides an easy and efficient way to keep track of your tasks and ensure you stay productive.
